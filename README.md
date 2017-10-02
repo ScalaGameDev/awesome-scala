@@ -7,22 +7,26 @@ Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagge
 
 Projects with over 500 stargazers are in bold.
 
-- [Awesome Scala](#awesome-scala)
+- [Awesome Scala GameDev](#awesome-scala-gamedev)
+    - [Game Engines and Libraries](#game-engines-and-libraries)
+    - [Game Tools](#game-tools)
     - [Graphical User Interfaces](#graphical-user-interfaces)
-
+    - [Wrappers for Engines and Libraries](#wrappers-for-engines-and-libraries)
 - [Contributing](#contributing)
 
 ## Game Engines and Libraries
 
-## Wrappers for Engines and Libraries
+* [RPG Boss](https://github.com/rpgboss/rpgboss) - Multiplatform, point and click rpg game editor and engine, based on [libgdx](https://github.com/libgdx/libgdx). 
 
-
+## Game Tools
 
 ## Graphical User Interfaces
 
 *Libraries for creation of graphical user interfaces*
 
 * [ScalaFX](http://www.scalafx.org/) - Scala DSL for creating Graphical User Interfaces that sits on top of JavaFX.
+
+## Wrappers for Engines and Libraries
 
 
 # Contributing

@@ -28,7 +28,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Game Engines and Libraries
 
-* [RPG Boss](https://github.com/rpgboss/rpgboss) - Multiplatform, point and click rpg game editor and engine, based on [libgdx](https://github.com/libgdx/libgdx
+* [RPG Boss](https://github.com/rpgboss/rpgboss) - Multiplatform, point and click rpg game editor and engine, based on [libgdx](https://github.com/libgdx/libgdx).
 * [SGL](https://github.com/regb/scala-game-library) `pre-release` - Scala Game Library is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building 2D games, and can deploy for Desktop, Android, and HTML5, while iOS and console platforms are on the roadmap. Makes use of [Graphics Bindings for Scala Native](#wrappers-for-engines-and-libraries) for some platforms.
 
 ## Game Tools

@@ -27,6 +27,8 @@ Projects with over 500 stargazers are in bold.
 
 * [BlockSmith](https://github.com/bbarker/BlockSmith/) `pre-release` -  BlockSmith is currently an experiment in the ways of MineCraft-like voxel games. 
 * [Scalatron](https://scalatron.github.io/) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other.
+* [scalawarrior](https://github.com/scalawarrior/scalawarrior) - This is a game for learning Scala which is inspired by [ruby-warrior](https://github.com/ryanb/ruby-warrior). On each floor you instruct the warrior to battle enemies, rescue captives, and reach the stairs by writing some Scala!
+* [stargame](https://github.com/tommycli/stargame) - Multiplayer browser-based space 4X RTS. 
 * [UltraBlackBloodDeath](https://github.com/sykophant/sykophant-game) `untested` - An open-source FPS tournament game made using Scala on top of JME3.
 
 ### Closed-Source
@@ -35,6 +37,11 @@ Projects with over 500 stargazers are in bold.
 * [ScalaQuest](https://www.kickstarter.com/projects/andanthor/scalaquest-a-game-to-learn-scala) `pre-release` - An online game to learn Scala. Battle Goblins and Wizards and face all kinds of challenges while learning a new programming language. 
 * [WinSmash](https://play.google.com/store/apps/details?id=com.regblanc.winsmash&hl=en) - WinSmash is a classic arcade game that pays homage to the late Microsoft Windows XP by reminding nostalgic people of the good old days.
 
+### Mini-games
+
+* [scalajs-snake](https://github.com/vmunier/scalajs-snake) - [live demo](http://vmunier.github.io/scalajs-snake/) 
+Snake game written in Scala.js.
+* [monadic mario](https://github.com/OlivierBlanvillain/monadic-html/blob/master/examples/src/main/scala/mhtml/examples/Mario.scala) - [live demo](https://olivierblanvillain.github.io/monadic-html/examples/#/Mario) A very simple mario "game", writtein in [monadic-html](https://github.com/OlivierBlanvillain/monadic-html).
 ## Game Engines and Libraries
 
 * [RPG Boss](https://github.com/rpgboss/rpgboss) - Multiplatform, point and click rpg game editor and engine, based on [libgdx](https://github.com/libgdx/libgdx).

@@ -1,5 +1,5 @@
-Awesome Scala GameDev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=============
+# Awesome Scala GameDev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/ScalaGameDev/incubator](https://badges.gitter.im/ScalaGameDev/incubator.svg)](https://gitter.im/ScalaGameDev/incubator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 A community driven list of libraries, software, and resources useful for Scala game development. Also lists of games being written in or already completed in Scala. This is not a catalog of all the libraries, just a starting point for your explorations. That said, due to the incubating environment here at ScalaGameDev, we welcome projects at any stage of development, so please submit a PR if you have or know about a project to get it added to the list. The list is inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 

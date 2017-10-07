@@ -21,11 +21,17 @@ Projects with over 500 stargazers are in bold.
 
 * [Reactors](http://reactors.io) - a concurrent, distributed programming framework based on asynchronous event streams; currently targets Scala.js and the JVM.
 
+## Build Tools
+
+* [CBT](https://github.com/cvogt/cbt) `pre-release` - An upcoming, flexible build tool. Game development in Scala is one area where flexibility is often needed.
+* [sbt-lwjgl-plugin](https://github.com/philcali/sbt-lwjgl-plugin) `inactive` - For use with SBT, pulls in various LWJGL dependencies, including the appropriate native dependencies. Currently doesn't work with [coursier](https://github.com/coursier/coursier). Suggest using the following patched version: `addSbtPlugin("com.storm-enroute" % "sbt-lwjgl-plugin" % "3.1.6")`.
+
 ## Games
 
 ### Open-Source
 
 * [BlockSmith](https://github.com/bbarker/BlockSmith/) `pre-release` -  BlockSmith is currently an experiment in the ways of MineCraft-like voxel games. 
+* [doubletetris](https://github.com/Jasper-M/doubletetris) - [live demo](http://jasper-m.github.io/doubletetris/) An interesting take on tetris 
 * [Scalatron](https://scalatron.github.io/) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other.
 * [scalawarrior](https://github.com/scalawarrior/scalawarrior) - This is a game for learning Scala which is inspired by [ruby-warrior](https://github.com/ryanb/ruby-warrior). On each floor you instruct the warrior to battle enemies, rescue captives, and reach the stairs by writing some Scala!
 * [stargame](https://github.com/tommycli/stargame) - Multiplayer browser-based space 4X RTS. 
@@ -34,7 +40,7 @@ Projects with over 500 stargazers are in bold.
 ### Closed-Source
 
 * [Rat Trap](https://play.google.com/store/apps/details?id=com.regblanc.rattrap&hl=en) - Rat Trap is a small and addictive puzzle game, where your role is to protect your reserve of cheese by carefully positioning blocking elements to prevent the rat from reaching it and eventually trap it. 
-* [ScalaQuest](https://www.kickstarter.com/projects/andanthor/scalaquest-a-game-to-learn-scala) `pre-release` - An online game to learn Scala. Battle Goblins and Wizards and face all kinds of challenges while learning a new programming language. 
+* [ScalaQuest](https://www.kickstarter.com/projects/andanthor/scalaquest-a-game-to-learn-scala) `pre-release` - An online game to learn Scala. Battle Goblins and Wizards and face all kinds of challenges while learning a new programming language. Written using [Phaser.js](https://phaser.io) and the [Play Framework](https://playframework.com).
 * [WinSmash](https://play.google.com/store/apps/details?id=com.regblanc.winsmash&hl=en) - WinSmash is a classic arcade game that pays homage to the late Microsoft Windows XP by reminding nostalgic people of the good old days.
 
 ### Mini-games
@@ -47,7 +53,7 @@ Snake game written in Scala.js.
 * [RPG Boss](https://github.com/rpgboss/rpgboss) - Multiplatform, point and click rpg game editor and engine, based on [libgdx](https://github.com/libgdx/libgdx).
 * [Scage](https://github.com/dunnololda/scage) `inactive` - 2D OpenGL game engine, based on phys2d, lwjgl, and slick.
 * [Simplex3D](https://github.com/lexn82/simplex3d) `inactive` - The (first?) Scala 3D engine.
-* [sgine](https://github.com/outr/sgine) - Scala Engine for OpenGL-based Desktop, Android, and iOS game and business development; based on [libgdx](https://github.com/libgdx/libgdx).
+* [sgine](https://github.com/outr/sgine) `inactive` - Scala Engine for OpenGL-based Desktop, Android, and iOS game and business development; based on [libgdx](https://github.com/libgdx/libgdx).
 * [SGL](https://github.com/regb/scala-game-library) `pre-release` - Scala Game Library is a library for developing cross-platform 2D video games in Scala. It provides a high-level API for building 2D games, and can deploy for Desktop, Android, and HTML5, while iOS and console platforms are on the roadmap. Makes use of [Graphics Bindings for Scala Native](#wrappers-for-engines-and-libraries) for some platforms.
 
 ## Game Tools
@@ -55,6 +61,7 @@ Snake game written in Scala.js.
 ## Graphical User Interfaces
 
 * [ScalaFX](http://www.scalafx.org/) - Scala DSL for creating Graphical User Interfaces that sits on top of JavaFX.
+* [youi](https://github.com/outr/youi) - Next generation user interface and application development in Scala.js for web, mobile, and desktop. Currently has support for a 2D API; WebGL may be added later.
 
 ## Wrappers for Engines and Libraries
 

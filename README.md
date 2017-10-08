@@ -14,6 +14,7 @@ Projects with over 500 stargazers are in bold.
     - [Game Tools](#game-tools)
     - [Graphical User Interfaces](#graphical-user-interfaces)
     - [Resources](#resources)
+    - [Ray tracing](#ray-tracing)
     - [Wrappers for Engines and Libraries](#wrappers-for-engines-and-libraries)
 - [Contributing](#contributing)
 
@@ -25,6 +26,7 @@ Projects with over 500 stargazers are in bold.
 
 * [CBT ★ 375 ⧗ 1](https://github.com/cvogt/cbt) - `pre-release` An upcoming, flexible build tool. Game development in Scala is one area where flexibility is often needed.
 * [sbt-lwjgl-plugin ★ 42 ⧗ 194](https://github.com/philcali/sbt-lwjgl-plugin) - `inactive` For use with SBT, pulls in various LWJGL dependencies, including the appropriate native dependencies. Currently doesn't work with [coursier](https://github.com/coursier/coursier). Suggest using the following patched version: `addSbtPlugin("com.storm-enroute" % "sbt-lwjgl-plugin" % "3.1.6")`.
+* [ScalaMeter ★ 358 ⧗ 25](https://github.com/scalameter/scalameter) - Microbenchmarking and performance regression testing framework for the JVM platform: http://scalameter.github.io.
 
 ## Games
 
@@ -77,6 +79,12 @@ Snake game written in Scala.js.
 * [Graphics Bindings for Scala Native ★ 9 ⧗ 94](https://github.com/regb/scalanative-graphics-bindings) - `pre-release` Scala Native bindings for the popular graphics programming libraries SDL2 and OpenGL. The bindings try as much as possible to reproduce the original programming interface in C. In particular, they won't hide scalanative interoperability types behind regular Scala types.
 * [MacroGL ★ 81 ⧗ 7](https://github.com/storm-enroute/macrogl) - `inactive` Scala macro-based frontend for OpenGL for structured and efficient graphics code. Currently targets Scala.js and the JVM.
 * [SME ★ 0 ⧗ 111](https://github.com/bbarker/SME) - `pre-release` Scala Monkey Engine is a thin wrapper around [JMonkeyEngine 3](http://jmonkeyengine.org), helping to provide a more idiomatic feel to JME3 where possible. Currently requires and targets [Dotty](http://dotty.epfl.ch/).
+
+## Ray tracing
+
+* [Scala Collections RayTracer](https://github.com/scala-blitz/scala-blitz/blob/master/src/test/scala/org/scala/optimized/test/examples/RayTracer.scala) - A small example meant to take advantage of Scala's parallel collections, complete [with a writeup](https://scala-blitz.github.io/home/documentation/examples//raytracer.html).
+* [ScalaRay ★ 6 ⧗ 999](https://github.com/jesperdj/scalaray) - `inactive` Educational raytracer based on pbrt, the ray tracer described in the book Physically Based Rendering - From Theory to Implementation by Matt Pharr and Greg Humphreys
+* [SunBurn ★ 1 ⧗ 1353](https://github.com/hsyl20/SunBurn) - `inactive` 
 
 ## Resources
 

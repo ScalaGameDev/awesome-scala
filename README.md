@@ -9,6 +9,7 @@ Projects with over 500 stargazers are in bold.
 
 - [Awesome Scala GameDev](#awesome-scala-gamedev)
     - [Concurrency](#concurrency)
+    - [Emulators](#emulators)
     - [Games](#games)
     - [Game Engines and Libraries](#game-engines-and-libraries)
     - [Game Tools](#game-tools)
@@ -27,6 +28,10 @@ Projects with over 500 stargazers are in bold.
 * [CBT ★ 375 ⧗ 1](https://github.com/cvogt/cbt) - `pre-release` An upcoming, flexible build tool. Game development in Scala is one area where flexibility is often needed.
 * [sbt-lwjgl-plugin ★ 42 ⧗ 194](https://github.com/philcali/sbt-lwjgl-plugin) - `inactive` For use with SBT, pulls in various LWJGL dependencies, including the appropriate native dependencies. Currently doesn't work with [coursier](https://github.com/coursier/coursier). Suggest using the following patched version: `addSbtPlugin("com.storm-enroute" % "sbt-lwjgl-plugin" % "3.1.6")`.
 * [ScalaMeter ★ 358 ⧗ 25](https://github.com/scalameter/scalameter) - Microbenchmarking and performance regression testing framework for the JVM platform: http://scalameter.github.io.
+
+## Emulators
+
+* [scalagb ★ 13 ⧗ 125](https://github.com/dbousamra/scalagb) - `untested` A Z80 Gameboy emulator written in Scala.
 
 ## Games
 
@@ -52,11 +57,9 @@ Projects with over 500 stargazers are in bold.
 
 ### Mini-games
 
-Snake game written in Scala.js.
-
 * [monadic mario](https://github.com/OlivierBlanvillain/monadic-html/blob/master/examples/src/main/scala/mhtml/examples/Mario.scala) - [live demo](https://olivierblanvillain.github.io/monadic-html/examples/#/Mario) A very simple mario "game", writtein in [monadic-html](https://github.com/OlivierBlanvillain/monadic-html).
 * [scala-js-games ★ 88 ⧗ 4](https://github.com/lihaoyi/scala-js-games) - [live demo](http://www.lihaoyi.com/scala-js-games/) Demo collection including Asteroids, Astrolander, Snake, Pong, Brick, and Tetris.
-* [scalajs-snake ★ 4 ⧗ 152](https://github.com/vmunier/scalajs-snake) - [live demo](http://vmunier.github.io/scalajs-snake/) 
+* [scalajs-snake ★ 4 ⧗ 152](https://github.com/vmunier/scalajs-snake) - [live demo](http://vmunier.github.io/scalajs-snake/) Snake game written in Scala.js.
 
 ## Game Engines and Libraries
 
@@ -68,6 +71,7 @@ Snake game written in Scala.js.
 
 ## Game Tools
 
+* [scalacloth ★ 1 ⧗ 1399](https://github.com/dbousamra/scalacloth) - `untested` A cloth simulation in Scala.
 
 ## Graphical User Interfaces
 
@@ -82,8 +86,9 @@ Snake game written in Scala.js.
 
 ## Ray tracing
 
-* [Scala Collections RayTracer](https://github.com/scala-blitz/scala-blitz/blob/master/src/test/scala/org/scala/optimized/test/examples/RayTracer.scala) - A small example meant to take advantage of Scala's parallel collections, complete [with a writeup](https://scala-blitz.github.io/home/documentation/examples//raytracer.html).
+* [Scala Collections RayTracer](https://github.com/scala-blitz/scala-blitz/blob/master/src/test/scala/org/scala/optimized/test/examples/RayTracer.scala) - `inactive` A small example meant to take advantage of Scala's parallel collections, complete [with a writeup](https://scala-blitz.github.io/home/documentation/examples//raytracer.html).
 * [ScalaRay ★ 6 ⧗ 999](https://github.com/jesperdj/scalaray) - `inactive` Educational raytracer based on pbrt, the ray tracer described in the book Physically Based Rendering - From Theory to Implementation by Matt Pharr and Greg Humphreys
+* [scalasimpleray ★ 7 ⧗ 768](https://github.com/dbousamra/scalasimpleray) - `inactive` This is a VERY basic raytracer, but it's quite clean, and could be used by someone to learn.
 * [SunBurn ★ 1 ⧗ 1353](https://github.com/hsyl20/SunBurn) - `inactive` 
 
 ## Resources
